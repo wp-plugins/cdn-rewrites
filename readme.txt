@@ -4,7 +4,7 @@ Donate link: http://www.phoenixheart.net/wp-plugins/cdn-rewrites/
 Tags: cdn, content delivery network, bandwidth, rewrites
 Requires at least: 2.2
 Tested up to: 3.0
-Stable tag: 1.0.0
+Stable tag: 1.0
 
 This plugin rewrites the host(s) of your static files (JavaScripts, CSS, images etc.) (called Origin) into a CDN (Content Delivery Network) host. Works with almost all commerical and free CDNs like Akamai, Limelight Networks, EdgeCast, Coral etc. REQUIRES PHP >= 5
 

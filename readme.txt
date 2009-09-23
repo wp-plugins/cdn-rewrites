@@ -28,7 +28,7 @@ As usual:
 1. Extract into a folder
 1. Upload the entire to `wp-content/plugins/` directory of your WordPress installation
 1. Enable it via Plugins panel
-1. Head to Settings->CDN Rewrites and create the first profile. 
+1. Head to Settings-&gt;CDN Rewrites and create the first profile. 
 1. You're ready to go!
 
 == Frequently Asked Questions ==
